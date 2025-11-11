@@ -1,0 +1,5 @@
+{
+  "name": "Presentation Generator AT Bashundhara Group",
+  "description": "An application that automatically generates presentations from user-provided text or documents using Gemini. Users can view the generated slides and download them as a PowerPoint file.",
+  "requestFramePermissions": []
+}
